@@ -1,0 +1,9 @@
+{
+    "name": "Transmission",
+    "keywords": "Serial, slave",
+    "description": "",
+    "version": "0.1",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
